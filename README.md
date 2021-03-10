@@ -17,12 +17,6 @@ Now UI Kit React is built on top of Bootstrap 4 using React and Reactstrap, so i
 
 ### Bootstrap 4 support
 
-Now UI Kit React is built on top of Bootstrap 4 using React, React Hooks, create-react-app and Reactstrap. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4, React or Reactstrap project; you can just import the Now UI Kit React style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
-
-
-### Examples
-
-Now UI Kit React contains some pages already designed and implemented. Here is the list with the pages available. We are also working on more example pages, that you will be able to access no matter the version you download.
 
 
 * [Landing Page](https://demos.creative-tim.com/now-ui-kit-react/#/landing-page?ref=nukr-github-readme)
