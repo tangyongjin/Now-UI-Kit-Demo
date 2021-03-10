@@ -81,8 +81,8 @@ function LandingPage() {
                   <div
                     className="image-container image-right"
                     style={{
-                      backgroundImage:
-                        "url(" + require("assets/img/bg1.jpg") + ")",
+                      backgroundImage: 
+                        "url(" + require("assets/img/mines/mine1.jpeg") + ")",
                     }}
                   ></div>
                   <h3>
